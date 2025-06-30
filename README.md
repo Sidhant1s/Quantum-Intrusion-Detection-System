@@ -85,8 +85,8 @@ You are free to use, share, and adapt the ideas under attribution with non-comme
 
 ## 🔗 Related Project
 
-> 🧬 **Quantum Communication Framework**  
-> GitHub: [Quantum-Communication-Framework](https://github.com/Sidhant1s/Quantum-Communication-Framework)
+> 🧬 **Quantum-Network-Architecture**  
+> GitHub: [Quantum-Network-Architecture](https://github.com/Sidhant1s/Quantum-Network-Architecture)
 
 For secure and reroutable quantum communication using QIRRP, QDDS, and QARP.
 
